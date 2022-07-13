@@ -1,0 +1,20 @@
+{
+  "name": "dofus-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nut-tree/nut-js": "^2.1.1",
+    "@nut-tree/template-matcher": "^1.0.1",
+    "child_process": "^1.0.2",
+    "ffi-napi": "^4.0.3",
+    "forcefocus": "^1.1.0",
+    "sleep-promise": "^9.1.0"
+  }
+}
